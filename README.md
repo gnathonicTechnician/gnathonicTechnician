@@ -3,4 +3,5 @@
 - I idolize Toby Fox
 - I do pixel art sometimes
 - Python is my favorite programming language
+- I'm working on my first actual game
 - Why am I typing this? No one's going to see it
