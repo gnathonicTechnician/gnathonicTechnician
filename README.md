@@ -1,0 +1,6 @@
+- Hey, I'm gnathonicTechnician :D
+- Not much to say
+- I suck a coding and I'm a Toby Fox fan
+- I do pixel art sometimes
+- Python is my favorite programming language
+- Why am I typing this? No one's going to see it
