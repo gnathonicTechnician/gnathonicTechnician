@@ -2,4 +2,4 @@
 - I suck a coding
 - I idolize Toby Fox
 - Python is my favorite programming language
-- I'm working on my first actual game
+- I dont know html/css
