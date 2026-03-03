@@ -1,4 +1,4 @@
-- Hey, I'm gnathonicTechnician :D
+- Hey, I'm gnathonicTechnician or Basil
 - I suck a coding
 - I idolize Toby Fox
 - Python is my favorite programming language
