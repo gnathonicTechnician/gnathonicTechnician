@@ -1,14 +1,14 @@
 # Hey, I'm gnathonicTechnician (or Basil) :]
 
-I am a student dev with too many projects and interests to keep track of, but currently I am President of my school's Robotics Club affiliated with the First Tech Challenge. It's pretty swell.
+I am a student dev with too many projects and interests to keep track of. Currently I am President of my school's Robotics Club affiliated with the First Tech Challenge. It's pretty swell.
 
 I mainly program for my own enjoyment and don't find the professional computer science field as interesting. I want to major in Mechanical Engineering.
 
-I know Python, Javascript, and a little bit of GDScript. I am currently working on learning Java. I consider myself an intermediate programmer. I am also trying my hand at composing.
+I know Python, Javascript, and a little bit of GDScript. I am currently working on learning Java. I consider myself a decent programmer. I am also trying my hand at composing.
 
 That's about all for now. Have a great life and thanks for checking out my profile! 
 
 <p align="center">
-  <img width="226" height="224" alt="adachi-rei-keyboard-smash" src="https://github.com/user-attachments/assets/8f6b93c2-4c00-440d-8af0-5ef54f96ef06" />
+  <img width="226" height="224" alt="Adachi Rei" src="https://github.com/user-attachments/assets/8f6b93c2-4c00-440d-8af0-5ef54f96ef06" />
   </p>
 
